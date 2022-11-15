@@ -1,0 +1,7 @@
+@import "./base.css";
+@import "./bg.css";
+
+.main-card {
+  background-color: rgba(0, 0, 0, 0.15);
+  backdrop-filter: blur(10px);
+}
